@@ -8,7 +8,7 @@ dash-int is the folders that contains the Sinatra app for the front end using th
 
 The DevPost link to this project is: https://devpost.com/software/farm-radar
 
-The dash-int folder can be found at: https://drive.google.com/open?id=0B4JFVgFx9EOcUTRodnNpSzRUWmM
+The dash-int folder can be found at: https://drive.google.com/drive/folders/0B4JFVgFx9EOceHQtTHp2SGU2Q00?usp=sharing
 
 
 <hr>
