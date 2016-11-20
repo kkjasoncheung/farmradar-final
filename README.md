@@ -1,5 +1,7 @@
 # farmradar-final
 
+<h2>We are proud to announce FarmRadar received 3rd Place Overall and the SAP Innovation Award at Electric City Hacks 2016.</h2>
+
 Arduino Code File includes all codes for sensors.
 Streamer.rb is a ruby script to open a multi-threaded application which parses sensor data from a serial port of an arduino
 in the background.
