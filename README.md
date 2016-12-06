@@ -12,9 +12,8 @@ The DevPost link to this project is: https://devpost.com/software/farm-radar
 
 The dash-int folder can be found at: https://drive.google.com/drive/folders/0B4JFVgFx9EOceHQtTHp2SGU2Q00?usp=sharing
 
-
 <hr>
-#Farm Rada is a modular remote sensing system that scans agricultural and environmental data and gives real time feedback.
+#Farm Radar is a modular remote sensing system that scans agricultural and environmental data and gives real time feedback.
 
 #Inspiration & What it does?
 This project is created during Major League Hacking (MLH) Electric City Hacks 2016.
