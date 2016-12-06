@@ -6,7 +6,7 @@ Arduino Code File includes all codes for sensors.
 Streamer.rb is a ruby script to open a multi-threaded application which parses sensor data from a serial port of an arduino
 in the background.
 
-dash-int is the folders that contains the Sinatra app for the front end using the Dashing framework that connects to our sensors and hardware.
+dash-int is the folders that contains the Sinatra based web app written in Ruby. The front end of the web app uses the Dashing framework that connects to our sensors and hardware to generate an intuitive and easy to use Dashboard that displays real-time data.
 
 The DevPost link to this project is: https://devpost.com/software/farm-radar
 
